@@ -1,17 +1,22 @@
-<studentList>
+<students>
 	<student>
-		<enrollmentId>3003</enrollmentId>
-		<studentId>1001</studentId>
-		<courseId>BUSX2001</courseId>
-		<startDate>2020-08-31</startDate>
-		<grade></grade>
-		<courseId>BUSX2001</courseId>
-		<name>Economics</name>
-		<credits>3</credits>
-		<enrollmentCap>45</enrollmentCap>
 		<studentId>1001</studentId>
 		<name>Harvey Kim</name>
 		<dob>1996-12-12</dob>
+		<enrollments>
+			<enrollmentId>3003</enrollmentId>
+			<startDate>2020-08-31</startDate>
+			<grade></grade>
+			<course>
+				<courseId>BUSX2001</courseId>
+				<courseName>Economics</courseName>
+				<credits>3</credits>
+				<enrollmentCap>45</enrollmentCap>
+			</course>
+
+		</enrollments>
+		
+		
 	</student>
 
 	<student>
@@ -21,7 +26,7 @@
 		<startDate>2020-08-31</startDate>
 		<grade></grade>
 		<courseId>BUSX2001</courseId>
-		<name>Economics</name>
+		<courseName>Economics</courseName>
 		<credits>3</credits>
 		<enrollmentCap>45</enrollmentCap>
 		<studentId>1002</studentId>
@@ -133,4 +138,4 @@
 		<name>Emilia Harris</name>
 		<dob>1999-05-06</dob>
 	</student>
-</DATA>
+</students>
