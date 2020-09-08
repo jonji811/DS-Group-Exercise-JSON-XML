@@ -1,10 +1,4 @@
-enrollmentId,studentId,courseId,startDate,grade,name,credits,enrollmentCap,name,dob
-3003,1001,BUSX2001,8/31/2020,,Economics,3,45,Harvey Kim,12/12/1996
-3004,1002,BUSX2001,8/31/2020,,Economics,3,45,Emilia Harris,5/6/1999
-3009,1003,BUSX2001,8/31/2020,,Economics,3,45,Brian McCallister,4/16/1997
-3005,1002,BUSX2002,8/31/2020,,Applied Statistics,2,20,Emilia Harris,5/6/1999
-3008,1003,BUSX2002,8/31/2020,,Applied Statistics,2,20,Brian McCallister,4/16/1997
-3001,1001,BUSX2003,8/31/2020,,Spreadsheet Modeling,2,55,Harvey Kim,12/12/1996
-3006,1002,BUSX2003,8/31/2020,,Spreadsheet Modeling,2,55,Emilia Harris,5/6/1999
-3002,1001,BUSX2004,1/12/2020,A,Pricing Management,2,50,Harvey Kim,12/12/1996
-3007,1002,BUSX2004,1/12/2020,B-,Pricing Management,2,50,Emilia Harris,5/6/1999
+studentId,name,dob,enrollment/0/enrollmentId,enrollment/0/startDate,enrollment/0/grade,enrollment/0/course/courseId,enrollment/0/course/name,enrollment/0/course/credits,enrollment/0/course/enrollmentCap,enrollment/1/enrollmentId,enrollment/1/startDate,enrollment/1/grade,enrollment/1/course/courseId,enrollment/1/course/name,enrollment/1/course/credits,enrollment/1/course/enrollmentCap,enrollment/2/enrollmentId,enrollment/2/startDate,enrollment/2/grade,enrollment/2/course/courseId,enrollment/2/course/name,enrollment/2/course/credits,enrollment/2/course/enrollmentCap,enrollment/3/enrollmentId,enrollment/3/startDate,enrollment/3/grade,enrollment/3/course/courseId,enrollment/3/course/name,enrollment/3/course/credits,enrollment/3/course/enrollmentCap
+1001,Harvey Kim,1996-12-12,3003,2020-08-31,,BUSX2001,Economics,3,45,3002,2020-01-12,A,BUSX2004,Pricing Management,2,50,3001,2020-08-31,,BUSX2003,Spreadsheet Modeling,2,55,,,,,,,
+1002,Emilia Harris,1999-05-06,3004,2020-08-31,,BUSX2001,Economics,3,45,3005,2020-08-31,,BUSX2002,Applied Statistics,2,20,3006,2020-08-31,,BUSX2003,Spreadsheet Modeling,2,55,3007,2020-01-12,B-,BUSX2004,Pricing Management,2,50
+1003,Brian McCallister,1997-04-16,3009,2020-08-31,,BUSX2001,Economics,3,45,3008,2020-08-31,,BUSX2002,Applied Statistics,2,20,,,,,,,,,,,,,,
