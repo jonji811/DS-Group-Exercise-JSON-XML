@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<root>
-  <row>
+<students>
+  <student>
     <studentId>1001</studentId>
     <name>Harvey Kim</name>
     <dob>1996-12-12</dob>
@@ -37,8 +37,8 @@
         <enrollmentCap>55</enrollmentCap>
       </course>
     </enrollment>
-  </row>
-  <row>
+  </student>
+  <student>
     <studentId>1002</studentId>
     <name>Emilia Harris</name>
     <dob>1999-05-06</dob>
@@ -86,8 +86,8 @@
         <enrollmentCap>50</enrollmentCap>
       </course>
     </enrollment>
-  </row>
-  <row>
+  </student>
+  <student>
     <studentId>1003</studentId>
     <name>Brian McCallister</name>
     <dob>1997-04-16</dob>
@@ -113,5 +113,5 @@
         <enrollmentCap>20</enrollmentCap>
       </course>
     </enrollment>
-  </row>
+  </student>
 </root>
