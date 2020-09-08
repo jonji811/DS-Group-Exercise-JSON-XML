@@ -1,6 +1,5 @@
-<DATA>
-
-	<ROW>
+<studentList>
+	<student>
 		<enrollmentId>3003</enrollmentId>
 		<studentId>1001</studentId>
 		<courseId>BUSX2001</courseId>
@@ -13,9 +12,9 @@
 		<studentId>1001</studentId>
 		<name>Harvey Kim</name>
 		<dob>1996-12-12</dob>
-	</ROW>
+	</student>
 
-	<ROW>
+	<student>
 		<enrollmentId>3004</enrollmentId>
 		<studentId>1002</studentId>
 		<courseId>BUSX2001</courseId>
@@ -28,9 +27,9 @@
 		<studentId>1002</studentId>
 		<name>Emilia Harris</name>
 		<dob>1999-05-06</dob>
-	</ROW>
+	</student>
 
-	<ROW>
+	<student>
 		<enrollmentId>3009</enrollmentId>
 		<studentId>1003</studentId>
 		<courseId>BUSX2001</courseId>
@@ -43,9 +42,9 @@
 		<studentId>1003</studentId>
 		<name>Brian McCallister</name>
 		<dob>1997-04-16</dob>
-	</ROW>
+	</student>
 
-	<ROW>
+	<student>
 		<enrollmentId>3005</enrollmentId>
 		<studentId>1002</studentId>
 		<courseId>BUSX2002</courseId>
@@ -58,9 +57,9 @@
 		<studentId>1002</studentId>
 		<name>Emilia Harris</name>
 		<dob>1999-05-06</dob>
-	</ROW>
+	</student>
 
-	<ROW>
+	<student>
 		<enrollmentId>3008</enrollmentId>
 		<studentId>1003</studentId>
 		<courseId>BUSX2002</courseId>
@@ -73,9 +72,9 @@
 		<studentId>1003</studentId>
 		<name>Brian McCallister</name>
 		<dob>1997-04-16</dob>
-	</ROW>
+	</student>
 
-	<ROW>
+	<student>
 		<enrollmentId>3001</enrollmentId>
 		<studentId>1001</studentId>
 		<courseId>BUSX2003</courseId>
@@ -88,9 +87,9 @@
 		<studentId>1001</studentId>
 		<name>Harvey Kim</name>
 		<dob>1996-12-12</dob>
-	</ROW>
+	</student>
 
-	<ROW>
+	<student>
 		<enrollmentId>3006</enrollmentId>
 		<studentId>1002</studentId>
 		<courseId>BUSX2003</courseId>
@@ -103,9 +102,9 @@
 		<studentId>1002</studentId>
 		<name>Emilia Harris</name>
 		<dob>1999-05-06</dob>
-	</ROW>
+	</student>
 
-	<ROW>
+	<student>
 		<enrollmentId>3002</enrollmentId>
 		<studentId>1001</studentId>
 		<courseId>BUSX2004</courseId>
@@ -118,9 +117,9 @@
 		<studentId>1001</studentId>
 		<name>Harvey Kim</name>
 		<dob>1996-12-12</dob>
-	</ROW>
+	</student>
 
-	<ROW>
+	<student>
 		<enrollmentId>3007</enrollmentId>
 		<studentId>1002</studentId>
 		<courseId>BUSX2004</courseId>
@@ -133,5 +132,5 @@
 		<studentId>1002</studentId>
 		<name>Emilia Harris</name>
 		<dob>1999-05-06</dob>
-	</ROW>
+	</student>
 </DATA>
