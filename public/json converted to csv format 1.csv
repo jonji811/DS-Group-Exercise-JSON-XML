@@ -1,0 +1,10 @@
+﻿studentId,name,dob,enrollments__enrollment__enrollmentId,enrollments__enrollment__startDate,enrollments__enrollment__grade,enrollments__enrollment__courseInfo__courseId,enrollments__enrollment__courseInfo__name,enrollments__enrollment__courseInfo__credits,enrollments__enrollment__courseInfo__enrollmentCap
+1001,Harvey Kim,12/12/1996,3003,8/31/2020,,BUSX2001,Economics,3,45
+,,,3002,1/12/2020,A,BUSX2004,Pricing Management,2,50
+,,,3001,8/31/2020,,BUSX2003,Spreadsheet Modeling,2,55
+1002,Emilia Harris,5/6/1999,3004,8/31/2020,,BUSX2001,Economics,3,45
+,,,3005,8/31/2020,,BUSX2002,Applied Statistics,2,20
+,,,3006,8/31/2020,,BUSX2003,Spreadsheet Modeling,2,55
+,,,3007,1/12/2020,B-,BUSX2004,Pricing Management,2,50
+1003,Brian McCallister,4/16/1997,3009,8/31/2020,,BUSX2001,Economics,3,45
+,,,3008,8/31/2020,,BUSX2002,Applied Statistics,2,20
