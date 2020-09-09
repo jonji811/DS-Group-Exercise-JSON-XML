@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <students>
+
   <student>
     <studentId>1001</studentId>
     <name>Harvey Kim</name>
@@ -15,6 +16,7 @@
         <enrollmentCap>45</enrollmentCap>
       </course>
     </enrollment>
+
     <enrollment>
       <enrollmentId>3002</enrollmentId>
       <startDate>2020-01-12</startDate>
@@ -26,6 +28,7 @@
         <enrollmentCap>50</enrollmentCap>
       </course>
     </enrollment>
+
     <enrollment>
       <enrollmentId>3001</enrollmentId>
       <startDate>2020-08-31</startDate>
@@ -38,6 +41,7 @@
       </course>
     </enrollment>
   </student>
+
   <student>
     <studentId>1002</studentId>
     <name>Emilia Harris</name>
@@ -53,6 +57,7 @@
         <enrollmentCap>45</enrollmentCap>
       </course>
     </enrollment>
+
     <enrollment>
       <enrollmentId>3005</enrollmentId>
       <startDate>2020-08-31</startDate>
@@ -64,6 +69,7 @@
         <enrollmentCap>20</enrollmentCap>
       </course>
     </enrollment>
+
     <enrollment>
       <enrollmentId>3006</enrollmentId>
       <startDate>2020-08-31</startDate>
@@ -75,6 +81,7 @@
         <enrollmentCap>55</enrollmentCap>
       </course>
     </enrollment>
+
     <enrollment>
       <enrollmentId>3007</enrollmentId>
       <startDate>2020-01-12</startDate>
@@ -87,6 +94,7 @@
       </course>
     </enrollment>
   </student>
+
   <student>
     <studentId>1003</studentId>
     <name>Brian McCallister</name>
@@ -102,6 +110,7 @@
         <enrollmentCap>45</enrollmentCap>
       </course>
     </enrollment>
+
     <enrollment>
       <enrollmentId>3008</enrollmentId>
       <startDate>2020-08-31</startDate>
@@ -113,5 +122,6 @@
         <enrollmentCap>20</enrollmentCap>
       </course>
     </enrollment>
+
   </student>
-</root>
+</students>
